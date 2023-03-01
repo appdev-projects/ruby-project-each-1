@@ -11,6 +11,9 @@
 #   mountain pink vines
 #   "mountain"
 #   "pink" 
+#
+# (Hint: remember you can nest conditionals inside
+# of loops)
 
 p "Enter a list of words separated by spaces:"
 
